@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Hero vers la gauche
 // Vous pouvez écrire votre code dans cet éditeur
 sprite_index=hero_left;
 var pdir;

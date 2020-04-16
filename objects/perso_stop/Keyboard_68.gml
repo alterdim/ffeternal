@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Déplacement vers la droite
 // Vous pouvez écrire votre code dans cet éditeur
 sprite_index=hero_right;
 var pdir;

@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Hero au repos
 // Vous pouvez écrire votre code dans cet éditeur
 sprite_index=sprite_status;
 var pdir;

@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Sprite quand le hero meurt
 // Vous pouvez écrire votre code dans cet éditeur
 if vie <= 0
 {

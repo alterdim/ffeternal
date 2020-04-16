@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Barre de vie 
 // Vous pouvez écrire votre code dans cet éditeur
 draw_set_colour(c_yellow);
 draw_rectangle(9,9,111,21,true);
